@@ -23,6 +23,8 @@ you can buy this source code for just 349rs
 ------------------------------------------------------------
 after receiving password ::
 *extract the zip file and you'll get another zip.again extract that zip to get the apk
-*install the apk and enjoy.
+*install the apk and enjoy.---
+
 #buyers result
+
 ![img1](<a href="https://ibb.co/9sXNvx5"><img src="https://i.ibb.co/Gcw0JZS/Screenshot-2022-08-08-115443.png" alt="Screenshot-2022-08-08-115443" border="0"></a>)
