@@ -20,8 +20,8 @@ LATEST PATCH UPDATED ON AUG/10/2022
 - you can also use our telegram bot for payment and contact.
 ------------------------------------------------------------
 **after receiving password :**
-- download the zip 
- ![](https://i.ibb.co/TKKy59f/Screenshot-2022-08-08-123532.png)
+- download the zip - 
+![](https://i.ibb.co/TKKy59f/Screenshot-2022-08-08-123532.png)
 - extract the zip file and you'll get another zip.again extract that zip to get the apk
 - install the apk and enjoy.---
 ## user interface(give last three used numbers to predict the upcoming number) 
