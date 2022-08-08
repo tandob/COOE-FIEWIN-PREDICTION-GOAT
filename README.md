@@ -8,11 +8,9 @@ LATEST PATCH UPDATED ON AUG/10/2022
 
 **NOTE : only works with indian numbers** 
 
-**steps for buying and installation**
+#steps for buying and installation**
 -------------------------------------
 
-*source code of betting app(1xbet,1win)* :space_invader:
-you can buy this source code for just 349rs
 
 **steps to buy source code :**
 
@@ -21,10 +19,11 @@ you can buy this source code for just 349rs
 - send payment screenshot along with your email to hukosuqa@gmail.com and you'll get the password for the zip through the email
 - you can also use our telegram bot for payment and contact.
 ------------------------------------------------------------
-after receiving password ::
+**after receiving password :**
 - extract the zip file and you'll get another zip.again extract that zip to get the apk
 - install the apk and enjoy.---
 
 ## buyers result
 ![](https://i.ibb.co/HYwR7DQ/Screenshot-2022-08-08-120305.png)
 ![](https://i.ibb.co/Gcw0JZS/Screenshot-2022-08-08-115443.png)
+
