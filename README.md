@@ -6,7 +6,7 @@ LATEST PATCH UPDATED ON AUG/10/2022
 
 #new moded color prediction apk for rs 150 (only on github)
 
-**NOTE : only works with indian numbers** 
+**NOTE : delete app cache after using each time** 
 
 #steps for buying and installation**
 -------------------------------------
@@ -22,7 +22,7 @@ LATEST PATCH UPDATED ON AUG/10/2022
 **after receiving password :**
 - extract the zip file and you'll get another zip.again extract that zip to get the apk
 - install the apk and enjoy.---
-## user interface(give three last used numbers to predict the upcoming number) 
+## user interface(give last three used numbers to predict the upcoming number) 
  ![](https://i.ibb.co/3M2nrm8/Whats-App-Image-2022-08-08-at-12-29-19-PM.jpg)
 
 ## buyers result
