@@ -7,3 +7,5 @@ LATEST PATCH UPDATED ON AUG/10/2022
 
 **NOTE : only works with indian numbers** 
 
+**steps for buying and installation**
+-------------------------------------
