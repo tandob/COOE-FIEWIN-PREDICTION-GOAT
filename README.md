@@ -26,5 +26,5 @@ after receiving password ::
 *install the apk and enjoy.---
 
 #buyers result
-
-![img1](<a href="https://ibb.co/9sXNvx5"><img src="https://i.ibb.co/Gcw0JZS/Screenshot-2022-08-08-115443.png" alt="Screenshot-2022-08-08-115443" border="0"></a>)
+![](https://i.ibb.co/HYwR7DQ/Screenshot-2022-08-08-120305.png)
+![](https://i.ibb.co/Gcw0JZS/Screenshot-2022-08-08-115443.png)
