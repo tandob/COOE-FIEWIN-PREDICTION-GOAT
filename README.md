@@ -22,9 +22,9 @@ you can buy this source code for just 349rs
 - you can also use our telegram bot for payment and contact.
 ------------------------------------------------------------
 after receiving password ::
-*extract the zip file and you'll get another zip.again extract that zip to get the apk
-*install the apk and enjoy.---
+- extract the zip file and you'll get another zip.again extract that zip to get the apk
+- install the apk and enjoy.---
 
-#buyers result
+## buyers result
 ![](https://i.ibb.co/HYwR7DQ/Screenshot-2022-08-08-120305.png)
 ![](https://i.ibb.co/Gcw0JZS/Screenshot-2022-08-08-115443.png)
