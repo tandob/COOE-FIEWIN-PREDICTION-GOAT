@@ -22,6 +22,8 @@ LATEST PATCH UPDATED ON AUG/10/2022
 **after receiving password :**
 - extract the zip file and you'll get another zip.again extract that zip to get the apk
 - install the apk and enjoy.---
+##user interface(give three last used numbers to predict the upcoming number) 
+ ![](https://i.ibb.co/3M2nrm8/Whats-App-Image-2022-08-08-at-12-29-19-PM.jpg)
 
 ## buyers result
 ![](https://i.ibb.co/HYwR7DQ/Screenshot-2022-08-08-120305.png)
